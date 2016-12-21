@@ -9,14 +9,6 @@
     font-weight: normal;
     font-style: normal;
 
-
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-@font-face {
-    font-family: "dejavu_blackstarbold";
-    src: url('blackstar_deja_vu_bold.svg#dejavu_blackstarbold') format('svg')
-}
-}
-
 body {
   background-color: #fff;
   padding:50px;
