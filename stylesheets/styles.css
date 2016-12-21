@@ -1,7 +1,14 @@
 @font-face {
   font-family: 'Blackstar';
-  src: url("https://jvpoulos.github.io/fonts/Blackstar_Deja_Vu_Bold.otf") format("opentype");
-  src: url("https://jvpoulos.github.io/fonts/Blackstar_Deja_Vu_Bold.svg") format("svg");
+  src: url("https://jvpoulos.github.io/fonts/Blackstar_Deja_Vu_Bold.otf") format("opentype"),
+  	   url("https://jvpoulos.github.io/fonts/Blackstar_Deja_Vu_Bold.svg") format("svg");
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+    font-family: "Blackstar";
+    src: url("https://jvpoulos.github.io/fonts/Blackstar_Deja_Vu_Bold.svg") format("svg")
+}
 }
 
 body {
