@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'dejavu_blackstarbold';
-    src: url('https://jvpoulos.github.io/blackstar_deja_vu_bold.eot');
-    src: url('https://jvpoulos.github.io/blackstar_deja_vu_bold.eot?#iefix') format('embedded-opentype'),
-    	 url("https://jvpoulos.github.io/fonts/Blackstar_Deja_Vu_Bold.otf") format("opentype"),
-         url('https://jvpoulos.github.io/blackstar_deja_vu_bold.woff2') format('woff2'),
-         url('https://jvpoulos.github.io/blackstar_deja_vu_bold.woff') format('woff'),
-         url('https://jvpoulos.github.io/blackstar_deja_vu_bold.svg#dejavu_blackstarbold') format('svg');
+    src: url('blackstar_deja_vu_bold.eot');
+    src: url('blackstar_deja_vu_bold.eot?#iefix') format('embedded-opentype'),
+    	 url("Blackstar_Deja_Vu_Bold.otf") format("opentype"),
+         url('blackstar_deja_vu_bold.woff2') format('woff2'),
+         url('blackstar_deja_vu_bold.woff') format('woff'),
+         url('blackstar_deja_vu_bold.svg#dejavu_blackstarbold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -13,7 +13,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 @font-face {
     font-family: "dejavu_blackstarbold";
-    src: url('https://jvpoulos.github.io/blackstar_deja_vu_bold.svg#dejavu_blackstarbold') format('svg')
+    src: url('blackstar_deja_vu_bold.svg#dejavu_blackstarbold') format('svg')
 }
 }
 
