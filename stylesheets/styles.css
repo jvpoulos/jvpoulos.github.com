@@ -1,14 +1,9 @@
 @font-face {
     font-family: 'dejavu_blackstarbold';
-    src: url('blackstar_deja_vu_bold.eot');
     src: url('blackstar_deja_vu_bold.eot?#iefix') format('embedded-opentype'),
-         url('blackstar_deja_vu_bold.woff2') format('woff2'),
          url('blackstar_deja_vu_bold.woff') format('woff'),
          url('blackstar_deja_vu_bold.ttf') format('truetype'),
          url('blackstar_deja_vu_bold.svg#dejavu_blackstarbold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
 }
 
 body {
